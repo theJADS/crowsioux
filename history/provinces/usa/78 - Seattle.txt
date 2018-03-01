@@ -1,0 +1,6 @@
+add_core = CSX
+owner = CSX
+trade_goods = timber
+life_rating = 35
+
+
