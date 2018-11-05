@@ -1,6 +1,7 @@
+# cultured schools
 country_event = {
 
-	id = 44104
+	id = 50000
 	news = yes
 	news_desc_long = "EVTDESC_CSX_1_NEWS_LONG"
 	news_desc_medium = "EVTDESC_CSX_1_NEWS_MEDIUM"
@@ -18,11 +19,11 @@ country_event = {
 		months = 1
 
 		modifier = {
-			factor = 0.75 #increase likelihood to happen
+			factor = 0.00 #increase likelihood to happen
 			year = 1837
 		}
 		modifier = {
-			factor = 0.95 #increase likelihood to happen
+			factor = 0.00 #increase likelihood to happen
 			year = 1838
 		}
 	}
@@ -37,8 +38,8 @@ country_event = {
 		plurality = 1
 		any_pop = {
 			research_points_modifier = 0.2	
-			militancy = 2
-			literacy = 0.7
+			militancy = 0.5
+			literacy = 0.1
 		}
 	}
 
@@ -52,4 +53,54 @@ country_event = {
 
 	}
 
+}
+
+# British help for Crowsioux-American War
+country_event = {
+	id = 50001
+	title = "EVTNAME_CSX_2" #Crowsioux Demands Northwest Territories!
+	desc = "EVTDESC_CSX_2"
+	picture = "treaty"
+	news = yes
+	news_desc_long = "EVTDESC_CSX_2_NEWS_LONG"
+	news_desc_medium = "EVTDESC_CSX_2_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC_CSX_2_NEWS_SHORT"
+
+	#is_triggered_only = yes
+	fire_only_once = yes
+
+	trigger = {
+		tag = CSX
+		government = democracy
+		year = 1836
+	}
+
+	option = {
+		name = "EVTOPT_CSX_2_1"
+		set_country_flag = mexico_refused_usa_once
+		CSX = { country_event = 50001 }
+		any_pop = { militancy = -1 }
+		ai_chance = {
+			factor = 1
+		}
+	}
+
+	option = {
+		name = "EVTOPT_CSX_2_2"
+		set_country_flag = treaty_of_guadalupe_hidalgo
+		113 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		116 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		91 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		93 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		119 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		117 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		155 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		156 =  { add_core = CSX secede_province = CSX remove_core = USA }
+		USA = { money = 10000 }
+		country_event = 50001
+		
+		ai_chance = {
+			factor = 99
+		}
+	}
 }

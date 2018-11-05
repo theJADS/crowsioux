@@ -225,7 +225,6 @@ QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
 CSX		="countries/Crowsioux.txt"
-EBZ		="countries/East Bufferzone.txt"
 
 # South America
 ARG		="countries/Argentina.txt"

@@ -45,7 +45,7 @@ military_staff_system = 1
 
 
 
-ruling_party = CSX_conservative
+ruling_party = CSX_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 36

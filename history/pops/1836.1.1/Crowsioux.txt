@@ -3,31 +3,31 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 150
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 500
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1000
+		size = 5000
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 2000
 	}
 }
 #Great Falls (8000/2000 POPS)
@@ -35,25 +35,25 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
@@ -65,19 +65,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 150
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -97,25 +97,25 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 15
+		size = 150
 	}
 
 	farmers = {
@@ -127,19 +127,19 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
@@ -161,19 +161,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 500
 	}
 
 	soldiers = {
@@ -193,49 +193,49 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 450
 	}
 
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 900
+		size = 1900
 	}
 
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	soldiers = {
@@ -255,19 +255,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 50
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	soldiers = {
@@ -285,31 +285,31 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 50
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 350
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 1500
 	}
 }
 #South Dakota Region (24000)
@@ -319,25 +319,25 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 750
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 15
+		size = 150
 	}
 
 	farmers = {
@@ -349,25 +349,25 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 1000
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 15
+		size = 150
 	}
 
 	farmers = {
@@ -381,13 +381,13 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 250
 	}
 
 	artisans = {
@@ -413,25 +413,25 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
@@ -443,25 +443,25 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
@@ -477,19 +477,19 @@
 	bureaucrats = {
 		culture = yankee
 		religion = protestant
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 15
+		size = 150
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 50
+		size = 300
 	}
 
 	soldiers = {
@@ -507,13 +507,13 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 300
 	}
 
 	artisans = {
@@ -539,13 +539,13 @@
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 100
+		size = 500
 	}
 
 	soldiers = {
@@ -565,7 +565,7 @@
 	clergymen = {
 		culture = yankee
 		religion = protestant
-		size = 35
+		size = 350
 	}
 
 	artisans = {
@@ -589,19 +589,19 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -613,7 +613,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 3000
 	}
 }
 #Sioux City (8000/2000 POPS)
@@ -621,19 +621,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 500
 	}
 
 	soldiers = {
@@ -655,19 +655,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -679,25 +679,25 @@
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 900
+		size = 1900
 	}
 
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -709,7 +709,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 1900
 	}
 }
 #Granite Falls (8000/2000 POPS)
@@ -717,19 +717,19 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 250
 	}
 
 	soldiers = {
@@ -749,13 +749,13 @@
 	aristocrats = {
 		culture = dakota
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = dakota
 		religion = animist
-		size = 25
+		size = 250
 	}
 	labourers = {
 		culture = dakota
@@ -766,7 +766,7 @@
 	artisans = {
 		culture = dakota
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -778,25 +778,25 @@
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 900
+		size = 3900
 	}
 
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
@@ -808,7 +808,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 1900
 	}
 }
 #Duluth (8000/2000 POPS)
@@ -816,30 +816,30 @@
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 1000
 	}
 
 	artisans = {
 		culture = native_american_minor
 		religion = animist
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1000
+		size = 1500
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1800
+		size = 3000
 	}
 }
